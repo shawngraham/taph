@@ -1,2 +1,4 @@
-tensorflow==1.14.0
+appmode==0.8.0
+ipywidgets==7.5.1
+tensorflow==1.7.*
 
