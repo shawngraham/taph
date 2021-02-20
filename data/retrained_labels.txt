@@ -1,0 +1,6 @@
+animal damage
+burnt
+insect damage
+spalling
+water damage
+weathered
